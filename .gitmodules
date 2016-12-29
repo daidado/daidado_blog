@@ -1,0 +1,3 @@
+[submodule "python/grammys"]
+	path = python/grammys
+	url = https://github.com/mmautner/readability.git
