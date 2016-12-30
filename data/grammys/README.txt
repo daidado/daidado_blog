@@ -1,0 +1,1 @@
+In order to process the information here I have made https://github.com/mmautner/readability a submodule of my code and ran it against all of my data files to print the metrics that proved most reliable (i.e. flesch-kincaid doesn't work given a certain number of sentences)
