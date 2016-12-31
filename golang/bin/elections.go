@@ -33,4 +33,7 @@ func main() {
 	for _, flip := range dToR {
 		log.Printf("%d", flip.ID)
 	}
+
+	log.Printf("Dramatic Dem shift: %v", elections.GetMostDramaticShift0816(true, counties))
+	log.Printf("Dramatic Rep shift: %v", elections.GetMostDramaticShift0816(false, counties))
 }

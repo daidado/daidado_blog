@@ -21,6 +21,50 @@ type County struct {
 	Votes16 Votes
 }
 
+func GetPercentages08(c County) []float64 {
+	return []float64{
+		c.Votes08.Democrat / c.Votes08.Total,
+		c.Votes08.Republican / c.Votes08.Total,
+		c.Votes08.Other / c.Votes08.Total,
+	}
+}
+
+func GetPercentages12(c County) []float64 {
+	return []float64{
+		c.Votes12.Democrat / c.Votes12.Total,
+		c.Votes12.Republican / c.Votes12.Total,
+		c.Votes12.Other / c.Votes12.Total,
+	}
+}
+
+func GetPercentages16(c County) []float64 {
+	return []float64{
+		c.Votes16.Democrat / c.Votes16.Total,
+		c.Votes16.Republican / c.Votes16.Total,
+		c.Votes16.Other / c.Votes16.Total,
+	}
+}
+
+func GetMostDramaticShift0816(toDem bool, counties []County) County {
+	shift := -100.0
+	var out County
+	for _, c := range counties {
+		percents08, percents16 := GetPercentages08(c), GetPercentages16(c)
+		if toDem {
+			if percents16[0]-percents08[0] > shift {
+				shift = percents16[0] - percents08[0]
+				out = c
+			}
+		} else {
+			if percents16[1]-percents08[1] > shift {
+				shift = percents16[1] - percents08[1]
+				out = c
+			}
+		}
+	}
+	return out
+}
+
 func GetFlippedCounties0816(counties []County) ([]County, []County) {
 	var rToD []County
 	var dToR []County
