@@ -1,0 +1,495 @@
+0: Id
+1: Id2
+2: Geography
+3: Total; Estimate; Civilian population 18 years and over
+4: Total; Margin of Error; Civilian population 18 years and over
+5: Percent; Estimate; Civilian population 18 years and over
+6: Percent; Margin of Error; Civilian population 18 years and over
+7: Veterans; Estimate; Civilian population 18 years and over
+8: Veterans; Margin of Error; Civilian population 18 years and over
+9: Percent; Estimate; Civilian population 18 years and over
+10: Percent; Margin of Error; Civilian population 18 years and over
+11: Nonveterans; Estimate; Civilian population 18 years and over
+12: Nonveterans; Margin of Error; Civilian population 18 years and over
+13: Percent; Estimate; Civilian population 18 years and over
+14: Percent; Margin of Error; Civilian population 18 years and over
+15: Total; Estimate; PERIOD OF SERVICE - Gulf War (9/2001 or later) veterans
+16: Total; Margin of Error; PERIOD OF SERVICE - Gulf War (9/2001 or later) veterans
+17: Percent; Estimate; PERIOD OF SERVICE - Gulf War (9/2001 or later) veterans
+18: Percent; Margin of Error; PERIOD OF SERVICE - Gulf War (9/2001 or later) veterans
+19: Veterans; Estimate; PERIOD OF SERVICE - Gulf War (9/2001 or later) veterans
+20: Veterans; Margin of Error; PERIOD OF SERVICE - Gulf War (9/2001 or later) veterans
+21: Percent; Estimate; PERIOD OF SERVICE - Gulf War (9/2001 or later) veterans
+22: Percent; Margin of Error; PERIOD OF SERVICE - Gulf War (9/2001 or later) veterans
+23: Nonveterans; Estimate; PERIOD OF SERVICE - Gulf War (9/2001 or later) veterans
+24: Nonveterans; Margin of Error; PERIOD OF SERVICE - Gulf War (9/2001 or later) veterans
+25: Percent; Estimate; PERIOD OF SERVICE - Gulf War (9/2001 or later) veterans
+26: Percent; Margin of Error; PERIOD OF SERVICE - Gulf War (9/2001 or later) veterans
+27: Total; Estimate; PERIOD OF SERVICE - Gulf War (8/1990 to 8/2001) veterans
+28: Total; Margin of Error; PERIOD OF SERVICE - Gulf War (8/1990 to 8/2001) veterans
+29: Percent; Estimate; PERIOD OF SERVICE - Gulf War (8/1990 to 8/2001) veterans
+30: Percent; Margin of Error; PERIOD OF SERVICE - Gulf War (8/1990 to 8/2001) veterans
+31: Veterans; Estimate; PERIOD OF SERVICE - Gulf War (8/1990 to 8/2001) veterans
+32: Veterans; Margin of Error; PERIOD OF SERVICE - Gulf War (8/1990 to 8/2001) veterans
+33: Percent; Estimate; PERIOD OF SERVICE - Gulf War (8/1990 to 8/2001) veterans
+34: Percent; Margin of Error; PERIOD OF SERVICE - Gulf War (8/1990 to 8/2001) veterans
+35: Nonveterans; Estimate; PERIOD OF SERVICE - Gulf War (8/1990 to 8/2001) veterans
+36: Nonveterans; Margin of Error; PERIOD OF SERVICE - Gulf War (8/1990 to 8/2001) veterans
+37: Percent; Estimate; PERIOD OF SERVICE - Gulf War (8/1990 to 8/2001) veterans
+38: Percent; Margin of Error; PERIOD OF SERVICE - Gulf War (8/1990 to 8/2001) veterans
+39: Total; Estimate; PERIOD OF SERVICE - Vietnam era veterans
+40: Total; Margin of Error; PERIOD OF SERVICE - Vietnam era veterans
+41: Percent; Estimate; PERIOD OF SERVICE - Vietnam era veterans
+42: Percent; Margin of Error; PERIOD OF SERVICE - Vietnam era veterans
+43: Veterans; Estimate; PERIOD OF SERVICE - Vietnam era veterans
+44: Veterans; Margin of Error; PERIOD OF SERVICE - Vietnam era veterans
+45: Percent; Estimate; PERIOD OF SERVICE - Vietnam era veterans
+46: Percent; Margin of Error; PERIOD OF SERVICE - Vietnam era veterans
+47: Nonveterans; Estimate; PERIOD OF SERVICE - Vietnam era veterans
+48: Nonveterans; Margin of Error; PERIOD OF SERVICE - Vietnam era veterans
+49: Percent; Estimate; PERIOD OF SERVICE - Vietnam era veterans
+50: Percent; Margin of Error; PERIOD OF SERVICE - Vietnam era veterans
+51: Total; Estimate; PERIOD OF SERVICE - Korean War veterans
+52: Total; Margin of Error; PERIOD OF SERVICE - Korean War veterans
+53: Percent; Estimate; PERIOD OF SERVICE - Korean War veterans
+54: Percent; Margin of Error; PERIOD OF SERVICE - Korean War veterans
+55: Veterans; Estimate; PERIOD OF SERVICE - Korean War veterans
+56: Veterans; Margin of Error; PERIOD OF SERVICE - Korean War veterans
+57: Percent; Estimate; PERIOD OF SERVICE - Korean War veterans
+58: Percent; Margin of Error; PERIOD OF SERVICE - Korean War veterans
+59: Nonveterans; Estimate; PERIOD OF SERVICE - Korean War veterans
+60: Nonveterans; Margin of Error; PERIOD OF SERVICE - Korean War veterans
+61: Percent; Estimate; PERIOD OF SERVICE - Korean War veterans
+62: Percent; Margin of Error; PERIOD OF SERVICE - Korean War veterans
+63: Total; Estimate; PERIOD OF SERVICE - World War II veterans
+64: Total; Margin of Error; PERIOD OF SERVICE - World War II veterans
+65: Percent; Estimate; PERIOD OF SERVICE - World War II veterans
+66: Percent; Margin of Error; PERIOD OF SERVICE - World War II veterans
+67: Veterans; Estimate; PERIOD OF SERVICE - World War II veterans
+68: Veterans; Margin of Error; PERIOD OF SERVICE - World War II veterans
+69: Percent; Estimate; PERIOD OF SERVICE - World War II veterans
+70: Percent; Margin of Error; PERIOD OF SERVICE - World War II veterans
+71: Nonveterans; Estimate; PERIOD OF SERVICE - World War II veterans
+72: Nonveterans; Margin of Error; PERIOD OF SERVICE - World War II veterans
+73: Percent; Estimate; PERIOD OF SERVICE - World War II veterans
+74: Percent; Margin of Error; PERIOD OF SERVICE - World War II veterans
+75: Total; Estimate; SEX - Male
+76: Total; Margin of Error; SEX - Male
+77: Percent; Estimate; SEX - Male
+78: Percent; Margin of Error; SEX - Male
+79: Veterans; Estimate; SEX - Male
+80: Veterans; Margin of Error; SEX - Male
+81: Percent; Estimate; SEX - Male
+82: Percent; Margin of Error; SEX - Male
+83: Nonveterans; Estimate; SEX - Male
+84: Nonveterans; Margin of Error; SEX - Male
+85: Percent; Estimate; SEX - Male
+86: Percent; Margin of Error; SEX - Male
+87: Total; Estimate; SEX - Female
+88: Total; Margin of Error; SEX - Female
+89: Percent; Estimate; SEX - Female
+90: Percent; Margin of Error; SEX - Female
+91: Veterans; Estimate; SEX - Female
+92: Veterans; Margin of Error; SEX - Female
+93: Percent; Estimate; SEX - Female
+94: Percent; Margin of Error; SEX - Female
+95: Nonveterans; Estimate; SEX - Female
+96: Nonveterans; Margin of Error; SEX - Female
+97: Percent; Estimate; SEX - Female
+98: Percent; Margin of Error; SEX - Female
+99: Total; Estimate; AGE - 18 to 34 years
+100: Total; Margin of Error; AGE - 18 to 34 years
+101: Percent; Estimate; AGE - 18 to 34 years
+102: Percent; Margin of Error; AGE - 18 to 34 years
+103: Veterans; Estimate; AGE - 18 to 34 years
+104: Veterans; Margin of Error; AGE - 18 to 34 years
+105: Percent; Estimate; AGE - 18 to 34 years
+106: Percent; Margin of Error; AGE - 18 to 34 years
+107: Nonveterans; Estimate; AGE - 18 to 34 years
+108: Nonveterans; Margin of Error; AGE - 18 to 34 years
+109: Percent; Estimate; AGE - 18 to 34 years
+110: Percent; Margin of Error; AGE - 18 to 34 years
+111: Total; Estimate; AGE - 35 to 54 years
+112: Total; Margin of Error; AGE - 35 to 54 years
+113: Percent; Estimate; AGE - 35 to 54 years
+114: Percent; Margin of Error; AGE - 35 to 54 years
+115: Veterans; Estimate; AGE - 35 to 54 years
+116: Veterans; Margin of Error; AGE - 35 to 54 years
+117: Percent; Estimate; AGE - 35 to 54 years
+118: Percent; Margin of Error; AGE - 35 to 54 years
+119: Nonveterans; Estimate; AGE - 35 to 54 years
+120: Nonveterans; Margin of Error; AGE - 35 to 54 years
+121: Percent; Estimate; AGE - 35 to 54 years
+122: Percent; Margin of Error; AGE - 35 to 54 years
+123: Total; Estimate; AGE - 55 to 64 years
+124: Total; Margin of Error; AGE - 55 to 64 years
+125: Percent; Estimate; AGE - 55 to 64 years
+126: Percent; Margin of Error; AGE - 55 to 64 years
+127: Veterans; Estimate; AGE - 55 to 64 years
+128: Veterans; Margin of Error; AGE - 55 to 64 years
+129: Percent; Estimate; AGE - 55 to 64 years
+130: Percent; Margin of Error; AGE - 55 to 64 years
+131: Nonveterans; Estimate; AGE - 55 to 64 years
+132: Nonveterans; Margin of Error; AGE - 55 to 64 years
+133: Percent; Estimate; AGE - 55 to 64 years
+134: Percent; Margin of Error; AGE - 55 to 64 years
+135: Total; Estimate; AGE - 65 to 74 years
+136: Total; Margin of Error; AGE - 65 to 74 years
+137: Percent; Estimate; AGE - 65 to 74 years
+138: Percent; Margin of Error; AGE - 65 to 74 years
+139: Veterans; Estimate; AGE - 65 to 74 years
+140: Veterans; Margin of Error; AGE - 65 to 74 years
+141: Percent; Estimate; AGE - 65 to 74 years
+142: Percent; Margin of Error; AGE - 65 to 74 years
+143: Nonveterans; Estimate; AGE - 65 to 74 years
+144: Nonveterans; Margin of Error; AGE - 65 to 74 years
+145: Percent; Estimate; AGE - 65 to 74 years
+146: Percent; Margin of Error; AGE - 65 to 74 years
+147: Total; Estimate; AGE - 75 years and over
+148: Total; Margin of Error; AGE - 75 years and over
+149: Percent; Estimate; AGE - 75 years and over
+150: Percent; Margin of Error; AGE - 75 years and over
+151: Veterans; Estimate; AGE - 75 years and over
+152: Veterans; Margin of Error; AGE - 75 years and over
+153: Percent; Estimate; AGE - 75 years and over
+154: Percent; Margin of Error; AGE - 75 years and over
+155: Nonveterans; Estimate; AGE - 75 years and over
+156: Nonveterans; Margin of Error; AGE - 75 years and over
+157: Percent; Estimate; AGE - 75 years and over
+158: Percent; Margin of Error; AGE - 75 years and over
+159: Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - White alone
+160: Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - White alone
+161: Percent; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - White alone
+162: Percent; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - White alone
+163: Veterans; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - White alone
+164: Veterans; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - White alone
+165: Percent; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - White alone
+166: Percent; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - White alone
+167: Nonveterans; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - White alone
+168: Nonveterans; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - White alone
+169: Percent; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - White alone
+170: Percent; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - White alone
+171: Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Black or African American alone
+172: Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Black or African American alone
+173: Percent; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Black or African American alone
+174: Percent; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Black or African American alone
+175: Veterans; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Black or African American alone
+176: Veterans; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Black or African American alone
+177: Percent; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Black or African American alone
+178: Percent; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Black or African American alone
+179: Nonveterans; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Black or African American alone
+180: Nonveterans; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Black or African American alone
+181: Percent; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Black or African American alone
+182: Percent; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Black or African American alone
+183: Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - American Indian and Alaska Native alone
+184: Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - American Indian and Alaska Native alone
+185: Percent; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - American Indian and Alaska Native alone
+186: Percent; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - American Indian and Alaska Native alone
+187: Veterans; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - American Indian and Alaska Native alone
+188: Veterans; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - American Indian and Alaska Native alone
+189: Percent; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - American Indian and Alaska Native alone
+190: Percent; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - American Indian and Alaska Native alone
+191: Nonveterans; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - American Indian and Alaska Native alone
+192: Nonveterans; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - American Indian and Alaska Native alone
+193: Percent; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - American Indian and Alaska Native alone
+194: Percent; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - American Indian and Alaska Native alone
+195: Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Asian alone
+196: Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Asian alone
+197: Percent; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Asian alone
+198: Percent; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Asian alone
+199: Veterans; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Asian alone
+200: Veterans; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Asian alone
+201: Percent; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Asian alone
+202: Percent; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Asian alone
+203: Nonveterans; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Asian alone
+204: Nonveterans; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Asian alone
+205: Percent; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Asian alone
+206: Percent; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Asian alone
+207: Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Native Hawaiian and Other Pacific Islander alone
+208: Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Native Hawaiian and Other Pacific Islander alone
+209: Percent; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Native Hawaiian and Other Pacific Islander alone
+210: Percent; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Native Hawaiian and Other Pacific Islander alone
+211: Veterans; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Native Hawaiian and Other Pacific Islander alone
+212: Veterans; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Native Hawaiian and Other Pacific Islander alone
+213: Percent; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Native Hawaiian and Other Pacific Islander alone
+214: Percent; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Native Hawaiian and Other Pacific Islander alone
+215: Nonveterans; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Native Hawaiian and Other Pacific Islander alone
+216: Nonveterans; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Native Hawaiian and Other Pacific Islander alone
+217: Percent; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Native Hawaiian and Other Pacific Islander alone
+218: Percent; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Native Hawaiian and Other Pacific Islander alone
+219: Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Some other race alone
+220: Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Some other race alone
+221: Percent; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Some other race alone
+222: Percent; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Some other race alone
+223: Veterans; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Some other race alone
+224: Veterans; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Some other race alone
+225: Percent; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Some other race alone
+226: Percent; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Some other race alone
+227: Nonveterans; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Some other race alone
+228: Nonveterans; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Some other race alone
+229: Percent; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Some other race alone
+230: Percent; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Some other race alone
+231: Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+232: Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+233: Percent; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+234: Percent; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+235: Veterans; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+236: Veterans; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+237: Percent; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+238: Percent; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+239: Nonveterans; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+240: Nonveterans; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+241: Percent; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+242: Percent; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+243: Total; Estimate; Hispanic or Latino (of any race)
+244: Total; Margin of Error; Hispanic or Latino (of any race)
+245: Percent; Estimate; Hispanic or Latino (of any race)
+246: Percent; Margin of Error; Hispanic or Latino (of any race)
+247: Veterans; Estimate; Hispanic or Latino (of any race)
+248: Veterans; Margin of Error; Hispanic or Latino (of any race)
+249: Percent; Estimate; Hispanic or Latino (of any race)
+250: Percent; Margin of Error; Hispanic or Latino (of any race)
+251: Nonveterans; Estimate; Hispanic or Latino (of any race)
+252: Nonveterans; Margin of Error; Hispanic or Latino (of any race)
+253: Percent; Estimate; Hispanic or Latino (of any race)
+254: Percent; Margin of Error; Hispanic or Latino (of any race)
+255: "Total; Estimate; White alone
+256:  not Hispanic or Latino"
+257: "Total; Margin of Error; White alone
+258:  not Hispanic or Latino"
+259: "Percent; Estimate; White alone
+260:  not Hispanic or Latino"
+261: "Percent; Margin of Error; White alone
+262:  not Hispanic or Latino"
+263: "Veterans; Estimate; White alone
+264:  not Hispanic or Latino"
+265: "Veterans; Margin of Error; White alone
+266:  not Hispanic or Latino"
+267: "Percent; Estimate; White alone
+268:  not Hispanic or Latino"
+269: "Percent; Margin of Error; White alone
+270:  not Hispanic or Latino"
+271: "Nonveterans; Estimate; White alone
+272:  not Hispanic or Latino"
+273: "Nonveterans; Margin of Error; White alone
+274:  not Hispanic or Latino"
+275: "Percent; Estimate; White alone
+276:  not Hispanic or Latino"
+277: "Percent; Margin of Error; White alone
+278:  not Hispanic or Latino"
+279: Total; Estimate; MEDIAN INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Civilian population 18 years and over with income
+280: Total; Margin of Error; MEDIAN INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Civilian population 18 years and over with income
+281: Percent; Estimate; MEDIAN INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Civilian population 18 years and over with income
+282: Percent; Margin of Error; MEDIAN INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Civilian population 18 years and over with income
+283: Veterans; Estimate; MEDIAN INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Civilian population 18 years and over with income
+284: Veterans; Margin of Error; MEDIAN INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Civilian population 18 years and over with income
+285: Percent; Estimate; MEDIAN INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Civilian population 18 years and over with income
+286: Percent; Margin of Error; MEDIAN INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Civilian population 18 years and over with income
+287: Nonveterans; Estimate; MEDIAN INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Civilian population 18 years and over with income
+288: Nonveterans; Margin of Error; MEDIAN INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Civilian population 18 years and over with income
+289: Percent; Estimate; MEDIAN INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Civilian population 18 years and over with income
+290: Percent; Margin of Error; MEDIAN INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Civilian population 18 years and over with income
+291: Total; Estimate; MEDIAN INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Civilian population 18 years and over with income - Male
+292: Total; Margin of Error; MEDIAN INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Civilian population 18 years and over with income - Male
+293: Percent; Estimate; MEDIAN INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Civilian population 18 years and over with income - Male
+294: Percent; Margin of Error; MEDIAN INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Civilian population 18 years and over with income - Male
+295: Veterans; Estimate; MEDIAN INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Civilian population 18 years and over with income - Male
+296: Veterans; Margin of Error; MEDIAN INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Civilian population 18 years and over with income - Male
+297: Percent; Estimate; MEDIAN INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Civilian population 18 years and over with income - Male
+298: Percent; Margin of Error; MEDIAN INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Civilian population 18 years and over with income - Male
+299: Nonveterans; Estimate; MEDIAN INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Civilian population 18 years and over with income - Male
+300: Nonveterans; Margin of Error; MEDIAN INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Civilian population 18 years and over with income - Male
+301: Percent; Estimate; MEDIAN INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Civilian population 18 years and over with income - Male
+302: Percent; Margin of Error; MEDIAN INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Civilian population 18 years and over with income - Male
+303: Total; Estimate; MEDIAN INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Civilian population 18 years and over with income - Female
+304: Total; Margin of Error; MEDIAN INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Civilian population 18 years and over with income - Female
+305: Percent; Estimate; MEDIAN INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Civilian population 18 years and over with income - Female
+306: Percent; Margin of Error; MEDIAN INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Civilian population 18 years and over with income - Female
+307: Veterans; Estimate; MEDIAN INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Civilian population 18 years and over with income - Female
+308: Veterans; Margin of Error; MEDIAN INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Civilian population 18 years and over with income - Female
+309: Percent; Estimate; MEDIAN INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Civilian population 18 years and over with income - Female
+310: Percent; Margin of Error; MEDIAN INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Civilian population 18 years and over with income - Female
+311: Nonveterans; Estimate; MEDIAN INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Civilian population 18 years and over with income - Female
+312: Nonveterans; Margin of Error; MEDIAN INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Civilian population 18 years and over with income - Female
+313: Percent; Estimate; MEDIAN INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Civilian population 18 years and over with income - Female
+314: Percent; Margin of Error; MEDIAN INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Civilian population 18 years and over with income - Female
+315: Total; Estimate; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over
+316: Total; Margin of Error; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over
+317: Percent; Estimate; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over
+318: Percent; Margin of Error; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over
+319: Veterans; Estimate; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over
+320: Veterans; Margin of Error; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over
+321: Percent; Estimate; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over
+322: Percent; Margin of Error; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over
+323: Nonveterans; Estimate; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over
+324: Nonveterans; Margin of Error; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over
+325: Percent; Estimate; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over
+326: Percent; Margin of Error; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over
+327: Total; Estimate; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - Less than high school graduate
+328: Total; Margin of Error; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - Less than high school graduate
+329: Percent; Estimate; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - Less than high school graduate
+330: Percent; Margin of Error; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - Less than high school graduate
+331: Veterans; Estimate; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - Less than high school graduate
+332: Veterans; Margin of Error; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - Less than high school graduate
+333: Percent; Estimate; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - Less than high school graduate
+334: Percent; Margin of Error; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - Less than high school graduate
+335: Nonveterans; Estimate; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - Less than high school graduate
+336: Nonveterans; Margin of Error; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - Less than high school graduate
+337: Percent; Estimate; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - Less than high school graduate
+338: Percent; Margin of Error; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - Less than high school graduate
+339: Total; Estimate; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - High school graduate (includes equivalency)
+340: Total; Margin of Error; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - High school graduate (includes equivalency)
+341: Percent; Estimate; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - High school graduate (includes equivalency)
+342: Percent; Margin of Error; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - High school graduate (includes equivalency)
+343: Veterans; Estimate; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - High school graduate (includes equivalency)
+344: Veterans; Margin of Error; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - High school graduate (includes equivalency)
+345: Percent; Estimate; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - High school graduate (includes equivalency)
+346: Percent; Margin of Error; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - High school graduate (includes equivalency)
+347: Nonveterans; Estimate; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - High school graduate (includes equivalency)
+348: Nonveterans; Margin of Error; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - High school graduate (includes equivalency)
+349: Percent; Estimate; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - High school graduate (includes equivalency)
+350: Percent; Margin of Error; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - High school graduate (includes equivalency)
+351: Total; Estimate; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - Some college or associate's degree
+352: Total; Margin of Error; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - Some college or associate's degree
+353: Percent; Estimate; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - Some college or associate's degree
+354: Percent; Margin of Error; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - Some college or associate's degree
+355: Veterans; Estimate; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - Some college or associate's degree
+356: Veterans; Margin of Error; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - Some college or associate's degree
+357: Percent; Estimate; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - Some college or associate's degree
+358: Percent; Margin of Error; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - Some college or associate's degree
+359: Nonveterans; Estimate; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - Some college or associate's degree
+360: Nonveterans; Margin of Error; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - Some college or associate's degree
+361: Percent; Estimate; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - Some college or associate's degree
+362: Percent; Margin of Error; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - Some college or associate's degree
+363: Total; Estimate; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - Bachelor's degree or higher
+364: Total; Margin of Error; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - Bachelor's degree or higher
+365: Percent; Estimate; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - Bachelor's degree or higher
+366: Percent; Margin of Error; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - Bachelor's degree or higher
+367: Veterans; Estimate; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - Bachelor's degree or higher
+368: Veterans; Margin of Error; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - Bachelor's degree or higher
+369: Percent; Estimate; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - Bachelor's degree or higher
+370: Percent; Margin of Error; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - Bachelor's degree or higher
+371: Nonveterans; Estimate; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - Bachelor's degree or higher
+372: Nonveterans; Margin of Error; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - Bachelor's degree or higher
+373: Percent; Estimate; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - Bachelor's degree or higher
+374: Percent; Margin of Error; EDUCATIONAL ATTAINMENT - Civilian population 25 years and over - Bachelor's degree or higher
+375: Total; Estimate; EMPLOYMENT STATUS - Civilian population 18 to 64 years
+376: Total; Margin of Error; EMPLOYMENT STATUS - Civilian population 18 to 64 years
+377: Percent; Estimate; EMPLOYMENT STATUS - Civilian population 18 to 64 years
+378: Percent; Margin of Error; EMPLOYMENT STATUS - Civilian population 18 to 64 years
+379: Veterans; Estimate; EMPLOYMENT STATUS - Civilian population 18 to 64 years
+380: Veterans; Margin of Error; EMPLOYMENT STATUS - Civilian population 18 to 64 years
+381: Percent; Estimate; EMPLOYMENT STATUS - Civilian population 18 to 64 years
+382: Percent; Margin of Error; EMPLOYMENT STATUS - Civilian population 18 to 64 years
+383: Nonveterans; Estimate; EMPLOYMENT STATUS - Civilian population 18 to 64 years
+384: Nonveterans; Margin of Error; EMPLOYMENT STATUS - Civilian population 18 to 64 years
+385: Percent; Estimate; EMPLOYMENT STATUS - Civilian population 18 to 64 years
+386: Percent; Margin of Error; EMPLOYMENT STATUS - Civilian population 18 to 64 years
+387: Total; Estimate; EMPLOYMENT STATUS - Civilian population 18 to 64 years - Labor force participation rate
+388: Total; Margin of Error; EMPLOYMENT STATUS - Civilian population 18 to 64 years - Labor force participation rate
+389: Percent; Estimate; EMPLOYMENT STATUS - Civilian population 18 to 64 years - Labor force participation rate
+390: Percent; Margin of Error; EMPLOYMENT STATUS - Civilian population 18 to 64 years - Labor force participation rate
+391: Veterans; Estimate; EMPLOYMENT STATUS - Civilian population 18 to 64 years - Labor force participation rate
+392: Veterans; Margin of Error; EMPLOYMENT STATUS - Civilian population 18 to 64 years - Labor force participation rate
+393: Percent; Estimate; EMPLOYMENT STATUS - Civilian population 18 to 64 years - Labor force participation rate
+394: Percent; Margin of Error; EMPLOYMENT STATUS - Civilian population 18 to 64 years - Labor force participation rate
+395: Nonveterans; Estimate; EMPLOYMENT STATUS - Civilian population 18 to 64 years - Labor force participation rate
+396: Nonveterans; Margin of Error; EMPLOYMENT STATUS - Civilian population 18 to 64 years - Labor force participation rate
+397: Percent; Estimate; EMPLOYMENT STATUS - Civilian population 18 to 64 years - Labor force participation rate
+398: Percent; Margin of Error; EMPLOYMENT STATUS - Civilian population 18 to 64 years - Labor force participation rate
+399: Total; Estimate; EMPLOYMENT STATUS - Civilian labor force 18 to 64 years
+400: Total; Margin of Error; EMPLOYMENT STATUS - Civilian labor force 18 to 64 years
+401: Percent; Estimate; EMPLOYMENT STATUS - Civilian labor force 18 to 64 years
+402: Percent; Margin of Error; EMPLOYMENT STATUS - Civilian labor force 18 to 64 years
+403: Veterans; Estimate; EMPLOYMENT STATUS - Civilian labor force 18 to 64 years
+404: Veterans; Margin of Error; EMPLOYMENT STATUS - Civilian labor force 18 to 64 years
+405: Percent; Estimate; EMPLOYMENT STATUS - Civilian labor force 18 to 64 years
+406: Percent; Margin of Error; EMPLOYMENT STATUS - Civilian labor force 18 to 64 years
+407: Nonveterans; Estimate; EMPLOYMENT STATUS - Civilian labor force 18 to 64 years
+408: Nonveterans; Margin of Error; EMPLOYMENT STATUS - Civilian labor force 18 to 64 years
+409: Percent; Estimate; EMPLOYMENT STATUS - Civilian labor force 18 to 64 years
+410: Percent; Margin of Error; EMPLOYMENT STATUS - Civilian labor force 18 to 64 years
+411: Total; Estimate; EMPLOYMENT STATUS - Civilian labor force 18 to 64 years - Unemployment rate
+412: Total; Margin of Error; EMPLOYMENT STATUS - Civilian labor force 18 to 64 years - Unemployment rate
+413: Percent; Estimate; EMPLOYMENT STATUS - Civilian labor force 18 to 64 years - Unemployment rate
+414: Percent; Margin of Error; EMPLOYMENT STATUS - Civilian labor force 18 to 64 years - Unemployment rate
+415: Veterans; Estimate; EMPLOYMENT STATUS - Civilian labor force 18 to 64 years - Unemployment rate
+416: Veterans; Margin of Error; EMPLOYMENT STATUS - Civilian labor force 18 to 64 years - Unemployment rate
+417: Percent; Estimate; EMPLOYMENT STATUS - Civilian labor force 18 to 64 years - Unemployment rate
+418: Percent; Margin of Error; EMPLOYMENT STATUS - Civilian labor force 18 to 64 years - Unemployment rate
+419: Nonveterans; Estimate; EMPLOYMENT STATUS - Civilian labor force 18 to 64 years - Unemployment rate
+420: Nonveterans; Margin of Error; EMPLOYMENT STATUS - Civilian labor force 18 to 64 years - Unemployment rate
+421: Percent; Estimate; EMPLOYMENT STATUS - Civilian labor force 18 to 64 years - Unemployment rate
+422: Percent; Margin of Error; EMPLOYMENT STATUS - Civilian labor force 18 to 64 years - Unemployment rate
+423: Total; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Civilian population 18 years and over for whom poverty status is determined
+424: Total; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Civilian population 18 years and over for whom poverty status is determined
+425: Percent; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Civilian population 18 years and over for whom poverty status is determined
+426: Percent; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Civilian population 18 years and over for whom poverty status is determined
+427: Veterans; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Civilian population 18 years and over for whom poverty status is determined
+428: Veterans; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Civilian population 18 years and over for whom poverty status is determined
+429: Percent; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Civilian population 18 years and over for whom poverty status is determined
+430: Percent; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Civilian population 18 years and over for whom poverty status is determined
+431: Nonveterans; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Civilian population 18 years and over for whom poverty status is determined
+432: Nonveterans; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Civilian population 18 years and over for whom poverty status is determined
+433: Percent; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Civilian population 18 years and over for whom poverty status is determined
+434: Percent; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Civilian population 18 years and over for whom poverty status is determined
+435: Total; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Civilian population 18 years and over for whom poverty status is determined - Income in the past 12 months below poverty level
+436: Total; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Civilian population 18 years and over for whom poverty status is determined - Income in the past 12 months below poverty level
+437: Percent; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Civilian population 18 years and over for whom poverty status is determined - Income in the past 12 months below poverty level
+438: Percent; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Civilian population 18 years and over for whom poverty status is determined - Income in the past 12 months below poverty level
+439: Veterans; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Civilian population 18 years and over for whom poverty status is determined - Income in the past 12 months below poverty level
+440: Veterans; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Civilian population 18 years and over for whom poverty status is determined - Income in the past 12 months below poverty level
+441: Percent; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Civilian population 18 years and over for whom poverty status is determined - Income in the past 12 months below poverty level
+442: Percent; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Civilian population 18 years and over for whom poverty status is determined - Income in the past 12 months below poverty level
+443: Nonveterans; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Civilian population 18 years and over for whom poverty status is determined - Income in the past 12 months below poverty level
+444: Nonveterans; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Civilian population 18 years and over for whom poverty status is determined - Income in the past 12 months below poverty level
+445: Percent; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Civilian population 18 years and over for whom poverty status is determined - Income in the past 12 months below poverty level
+446: Percent; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Civilian population 18 years and over for whom poverty status is determined - Income in the past 12 months below poverty level
+447: Total; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Civilian population 18 years and over for whom poverty status is determined - Income in the past 12 months at or above poverty level
+448: Total; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Civilian population 18 years and over for whom poverty status is determined - Income in the past 12 months at or above poverty level
+449: Percent; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Civilian population 18 years and over for whom poverty status is determined - Income in the past 12 months at or above poverty level
+450: Percent; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Civilian population 18 years and over for whom poverty status is determined - Income in the past 12 months at or above poverty level
+451: Veterans; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Civilian population 18 years and over for whom poverty status is determined - Income in the past 12 months at or above poverty level
+452: Veterans; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Civilian population 18 years and over for whom poverty status is determined - Income in the past 12 months at or above poverty level
+453: Percent; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Civilian population 18 years and over for whom poverty status is determined - Income in the past 12 months at or above poverty level
+454: Percent; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Civilian population 18 years and over for whom poverty status is determined - Income in the past 12 months at or above poverty level
+455: Nonveterans; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Civilian population 18 years and over for whom poverty status is determined - Income in the past 12 months at or above poverty level
+456: Nonveterans; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Civilian population 18 years and over for whom poverty status is determined - Income in the past 12 months at or above poverty level
+457: Percent; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Civilian population 18 years and over for whom poverty status is determined - Income in the past 12 months at or above poverty level
+458: Percent; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Civilian population 18 years and over for whom poverty status is determined - Income in the past 12 months at or above poverty level
+459: Total; Estimate; DISABILITY STATUS - Civilian population 18 years and over for whom poverty status is determined
+460: Total; Margin of Error; DISABILITY STATUS - Civilian population 18 years and over for whom poverty status is determined
+461: Percent; Estimate; DISABILITY STATUS - Civilian population 18 years and over for whom poverty status is determined
+462: Percent; Margin of Error; DISABILITY STATUS - Civilian population 18 years and over for whom poverty status is determined
+463: Veterans; Estimate; DISABILITY STATUS - Civilian population 18 years and over for whom poverty status is determined
+464: Veterans; Margin of Error; DISABILITY STATUS - Civilian population 18 years and over for whom poverty status is determined
+465: Percent; Estimate; DISABILITY STATUS - Civilian population 18 years and over for whom poverty status is determined
+466: Percent; Margin of Error; DISABILITY STATUS - Civilian population 18 years and over for whom poverty status is determined
+467: Nonveterans; Estimate; DISABILITY STATUS - Civilian population 18 years and over for whom poverty status is determined
+468: Nonveterans; Margin of Error; DISABILITY STATUS - Civilian population 18 years and over for whom poverty status is determined
+469: Percent; Estimate; DISABILITY STATUS - Civilian population 18 years and over for whom poverty status is determined
+470: Percent; Margin of Error; DISABILITY STATUS - Civilian population 18 years and over for whom poverty status is determined
+471: Total; Estimate; DISABILITY STATUS - Civilian population 18 years and over for whom poverty status is determined - With any disability
+472: Total; Margin of Error; DISABILITY STATUS - Civilian population 18 years and over for whom poverty status is determined - With any disability
+473: Percent; Estimate; DISABILITY STATUS - Civilian population 18 years and over for whom poverty status is determined - With any disability
+474: Percent; Margin of Error; DISABILITY STATUS - Civilian population 18 years and over for whom poverty status is determined - With any disability
+475: Veterans; Estimate; DISABILITY STATUS - Civilian population 18 years and over for whom poverty status is determined - With any disability
+476: Veterans; Margin of Error; DISABILITY STATUS - Civilian population 18 years and over for whom poverty status is determined - With any disability
+477: Percent; Estimate; DISABILITY STATUS - Civilian population 18 years and over for whom poverty status is determined - With any disability
+478: Percent; Margin of Error; DISABILITY STATUS - Civilian population 18 years and over for whom poverty status is determined - With any disability
+479: Nonveterans; Estimate; DISABILITY STATUS - Civilian population 18 years and over for whom poverty status is determined - With any disability
+480: Nonveterans; Margin of Error; DISABILITY STATUS - Civilian population 18 years and over for whom poverty status is determined - With any disability
+481: Percent; Estimate; DISABILITY STATUS - Civilian population 18 years and over for whom poverty status is determined - With any disability
+482: Percent; Margin of Error; DISABILITY STATUS - Civilian population 18 years and over for whom poverty status is determined - With any disability
+483: Total; Estimate; DISABILITY STATUS - Civilian population 18 years and over for whom poverty status is determined - Without a disability
+484: Total; Margin of Error; DISABILITY STATUS - Civilian population 18 years and over for whom poverty status is determined - Without a disability
+485: Percent; Estimate; DISABILITY STATUS - Civilian population 18 years and over for whom poverty status is determined - Without a disability
+486: Percent; Margin of Error; DISABILITY STATUS - Civilian population 18 years and over for whom poverty status is determined - Without a disability
+487: Veterans; Estimate; DISABILITY STATUS - Civilian population 18 years and over for whom poverty status is determined - Without a disability
+488: Veterans; Margin of Error; DISABILITY STATUS - Civilian population 18 years and over for whom poverty status is determined - Without a disability
+489: Percent; Estimate; DISABILITY STATUS - Civilian population 18 years and over for whom poverty status is determined - Without a disability
+490: Percent; Margin of Error; DISABILITY STATUS - Civilian population 18 years and over for whom poverty status is determined - Without a disability
+491: Nonveterans; Estimate; DISABILITY STATUS - Civilian population 18 years and over for whom poverty status is determined - Without a disability
+492: Nonveterans; Margin of Error; DISABILITY STATUS - Civilian population 18 years and over for whom poverty status is determined - Without a disability
+493: Percent; Estimate; DISABILITY STATUS - Civilian population 18 years and over for whom poverty status is determined - Without a disability
+494: Percent; Margin of Error; DISABILITY STATUS - Civilian population 18 years and over for whom poverty status is determined - Without a disability
