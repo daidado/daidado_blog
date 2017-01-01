@@ -14,7 +14,7 @@ def makeoneyear(labels, values, title, outpath):
 
     # Plot
     pyplot.pie(values, shadow=False)
-    pyplot.legend(legend, bbox_to_anchor=(.90, 0.05), fontsize=10)
+    pyplot.legend(legend, bbox_to_anchor=(.70, 0.05), fontsize=10)
     pyplot.title(title, fontsize=20, fontweight='bold')
     pyplot.savefig(outpath)
 
@@ -25,4 +25,4 @@ if __name__ == '__main__':
     for l in data:
         yearCsv = l.split(',')
         newTitle = '{0}: {1}'.format(title, yearCsv[0])
-        makeoneyear(labels, yearCsv[1:], newTitle, "data/veterans_estimates/race_gif/pics/{0}.png".format(yearCsv[0]))
+        makeoneyear(labels, yearCsv[1:], newTitle, "data/veterans_estimates/race_and_gender_gif/pics/{0}.png".format(yearCsv[0]))
