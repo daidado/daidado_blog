@@ -25,4 +25,4 @@ if __name__ == '__main__':
     for l in data:
         yearCsv = l.split(',')
         newTitle = '{0}: {1}'.format(title, yearCsv[0])
-        makeoneyear(labels, yearCsv[1:], newTitle, "/tmp/outdir/{0}.png".format(yearCsv[0]))
+        makeoneyear(labels, yearCsv[1:], newTitle, "data/veterans_estimates/race_gif/pics/{0}.png".format(yearCsv[0]))
