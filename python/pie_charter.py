@@ -14,11 +14,15 @@ def makeoneyear(labels, values, title, outpath):
     pyplot.figure(1, figsize=(8,8))
     pyplot.axes([.15, .25, .7, .7])
 
-    legend = ['{0}: {1:05.2f}%'.format(i,float(j)) for i,j in zip(labels, values)]
+    legend =
+        ['{0}: {1:05.2f}%'.format(i,float(j)) for i,j in zip(labels, values)]
 
     # Plot
     pyplot.pie(values, shadow=False)
-    pyplot.legend(legend, bbox_to_anchor=(.70, 0.05), fontsize=10)
+    pyplot.legend(legend,
+                  loc='center',
+                  bbox_to_anchor=[0.5, -.125],
+                  fontsize=10)
     pyplot.title(title, fontsize=20, fontweight='bold')
     pyplot.savefig(outpath)
 
