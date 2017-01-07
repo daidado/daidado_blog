@@ -31,12 +31,7 @@ if __name__ == '__main__':
     rows = f.readlines()
     for row in rows:
         data = row.split(',')
-        # Gross but I'm lazy; print how many fewer white people are by percentage. Run sort on cmdline output.
-        print "{0:5.2f}: {1}".format(
-            100*(float(data[13])/(float(data[13])+float(data[14])+float(data[15])+float(data[16])+float(data[17])+float(data[18])))
-            - 100*(float(data[1])/(float(data[1])+float(data[2])+float(data[3])+float(data[4])+float(data[5])+float(data[6]))),
-            data[0])
         makeoneyear(sys.argv[2], data[0],
-                    [float(data[13]), float(data[14]), float(data[15]), float(data[16]), float(data[17]), float(data[18])],
-                    [float(data[1]), float(data[2]), float(data[3]), float(data[4]), float(data[5]), float(data[6])])
+          [int(data[13]), int(data[14]), int(data[15]), int(data[16]), int(data[17]), int(data[18])],
+          [int(data[1]), int(data[2]), int(data[3]), int(data[4]), int(data[5]), int(data[6])])
 
