@@ -4,24 +4,28 @@
 import string
 import sys
 import numpy
-from matplotlib import pyplot
+from matplotlib import pyplot, image, gridspec
 from StringIO import StringIO
 
 def makeoneyear(outdir, state, data1, data2):
     labels = ["White (Not Hispanic)", "Black or African American", "American Indian or Alaska Native",
               "Asian", "Native Hawaiian or Other Pacific Islander", "Hispanic and Latino"]
-    fig, (ax1, ax2) = pyplot.subplots(1, 2, figsize=(10, 5))
+    gs = gridspec.GridSpec(4, 2)
 
-    ax1.pie(data1, shadow=False, radius=1.15, center=(0, 0))
-    ax1.set_title("65+ {0} Residents".format(state), fontweight="bold", size=20)
+    ax1 = pyplot.subplot(gs[:3, 0])
+    ax1.pie(data1, shadow=False, radius=1.25, center=(0, 0))
+    ax1.set_title("{0}: 65+".format(state), fontweight="bold", size=20)
     ax1.axis('equal')
 
-    ax2.pie(data2, shadow=False, radius=1.15, center=(0, 0))
-    ax2.set_title("<18 {0} Residents".format(state), fontweight="bold", size=20)
+    ax2 = pyplot.subplot(gs[:3, 1])
+    ax2.pie(data2, shadow=False, radius=1.25, center=(0, 0))
+    ax2.set_title("{0}: <18".format(state), fontweight="bold", size=20)
     ax2.axis('equal')
 
-    ax2.legend(labels, loc='lower center', bbox_to_anchor=[-0.1, -0.45])
-    #pyplot.show()
+    ax3 = pyplot.subplot(gs[3:, :])
+    ax3.pie(data2, shadow=False, radius=.0001, center=(0, 0))
+    ax3.legend(labels, loc='center')
+
     pyplot.savefig('{0}/{1}.png'.format(outdir, state)) 
     pyplot.close()
     
