@@ -12,7 +12,7 @@ def plot(year, rawnums, outpath):
     percentages = [ 0, 0, 0, 0, 0]
     for i in range(0, 5):
         percentages[i] = 100 * rawnums[i] / rawnums[4]
-        #percentages[i] = rawnums[i] * nums1967[4] / nums1967[i] / rawnums[4]
+        #percentages[i] = 100 * rawnums[i] * nums1967[4] / nums1967[i] / rawnums[4]
 
     ind = np.arange(5)  # the x locations for the groups
     width = 0.55       # the width of the bars
@@ -20,8 +20,8 @@ def plot(year, rawnums, outpath):
     rects = ax.bar(ind, percentages, width, color='r')
 
     # add some text for labels, title and axes ticks
-    ax.set_ylim([0, 105])
-    ax.set_ylabel('% of the Top 5%\'s Mean Income')
+    ax.set_ylim([0, 110])
+    ax.set_ylabel('Percentage of the Top 5%\'s Cutoff Income')
     ax.set_title('Income Compared to Top 5% in {0}'.format(year),
                  fontweight='bold')
     ax.set_xticks(ind + width*5/8)
