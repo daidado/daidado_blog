@@ -1,0 +1,1 @@
+echo "Year,Number of Hurricanes" > data/misc/hurricanes/hurricanes.csv && curl -s http://www.nhc.noaa.gov/TCR_StormReportsIndex.xml | grep Year | cut -d'>' -f2 | cut -d'<' -f1 | sort | uniq -c | sed 's/     //' | awk '{ print $2 "," $1 }' >> data/misc/hurricanes/hurricanes.csv
